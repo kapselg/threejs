@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import makeGuy from "./three";
 import { useEffect } from 'react';
